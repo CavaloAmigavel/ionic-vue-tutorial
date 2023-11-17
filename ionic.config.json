@@ -1,0 +1,7 @@
+{
+  "name": "tutorial_4real",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
